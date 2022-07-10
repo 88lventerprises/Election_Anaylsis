@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-Our team has been tasked to assist a Colorado Board of Elections Employee, Tom, with an election audit of the tabular result for a US Congressional precinct. Tom’s manager, Seth, would like to streamline these processes in Python, providing assistance with senatorial and local elections if the turn out is successful. We will preform our analysis on mail in ballots, punch cards, and direct reporting electronics. The aforementioned vote casting procedures are calculated by the following (respectively):
+Our team has been tasked to assist a Colorado Board of Elections Employee, Tom, with an election audit of the tabular results for a US Congressional precinct. Tom’s manager, Seth, would like to streamline these processes in Python, providing assistance with senatorial and local elections if the turn out is successful. We will preform our analysis on mail in ballots, punchcards, and direct reporting electronics. The aforementioned vote casting procedures are calculated by the following (respectively):
 
 -	Hand counted
 -	Machine Counted
@@ -11,7 +11,7 @@ Our team has been tasked to assist a Colorado Board of Elections Employee, Tom, 
 Our goal is to generate a vote count report as an audit tool of these election results. 
 
 ### Purpose 
-Our team has been tasked with using Python to write algorithms that will assist the confirmation and analysis of election results. Working directly with Tom and Tom’s manager Seth. Our team will be building upon our understanding of analysis relating to large data sets, leveraging our skillsets to provide the following outcomes:
+Our team has been tasked with using Python to write algorithms that will assist with the confirmation and analysis of election results. Working directly with Tom and Seth, our team will be building upon our understanding of analysis relating to large data sets, leveraging our skillsets to provide the following outcomes:
 
 -	Total number of votes cast
 -	A complete list of candidates who received votes
