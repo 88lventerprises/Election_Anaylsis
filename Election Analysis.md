@@ -70,7 +70,7 @@ A configurable code such as this has a multitude of uses that would be beneficia
 
 ***Example A***
 
-- A) City government needs, by changing counties to municipal districts. Data on areas that are less favorable to a specific candidate can be leveraged to increase visibility and engagement for future campaigns.
+City government needs, by changing counties to municipal districts. Data on areas that are less favorable to a specific candidate can be leveraged to increase visibility and engagement for future campaigns.
 
 ***Example B***
 
