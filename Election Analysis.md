@@ -64,9 +64,28 @@ Denver:82.8% (306,055)
 
 
 ## Election-Audit Summary
-A configurable code such as this has a multitude of uses that would be beneficial for upcoming elections or any tally based computational need such as:
 
-### **Additional Application**
+### Business Proposal
+
+**Executive Summary**
+
+Thank you Colorado Board of Elections Congressional District for engaging our team for this year's ballot audit. Our algorithm will provide an innovative aid in vote audit automation as our findings revealed an accurate summary of election outcomes. With its configurable aptitude this tool streamlines manual analysis and minimizes human-error.
+
+**Our Approach**
+
+Our pragmatic approach and clear understanding of deliverables allowed our team to expedited the following outcomes highlighted below (See Figure 1.1 A).  Created with the end-user in mind, across all congressional districts nationwide, municipal/local, state, federal, and national government entities can utilize this algorithm as a ubiquitous vote casting audit tool.
+
+***Figure 1.1.A***
+
+-	A complete list of candidates who received votes
+-	Total number of votes each candidate received
+-	Percentage of votes each candidate won
+-	The winner of the election based on popular votes
+
+
+#### **Additional Application**
+
+A brief overview of future applications are as follows:
 
 ***Example A***
 
