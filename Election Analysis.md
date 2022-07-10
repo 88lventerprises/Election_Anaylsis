@@ -74,5 +74,5 @@ City government needs, by changing counties to municipal districts. Data on area
 
 ***Example B***
 
-This code can be configured to accommodate a national presidential election quantifying state and county contributions. A 'Boolean' or 'if' statement can come in determining political party and if it is dominant in a specific state.
+This code can be configured to accommodate a national presidential election quantifying state and county contributions. A 'Boolean' or 'if' statement can be of assitanting for conditional analysis, determining political party and if it is dominant in a specific state.
 
